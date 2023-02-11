@@ -1,3 +1,6 @@
 [submodule "Assets/Simple-Scope-Shader-Core"]
 	path = Assets/Simple-Scope-Shader-Core
 	url = https://github.com/Kellojo/Simple-Scope-Shader-Core.git
+[submodule "Assets/Kellojo"]
+	path = Assets/Kellojo
+	url = https://github.com/Kellojo/Simple-Scope-Shader-Core.git
